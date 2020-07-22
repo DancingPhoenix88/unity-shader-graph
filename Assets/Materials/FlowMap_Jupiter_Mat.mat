@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlowMap_Jupiter_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 43a5ff7388ba94ed7a5389aa5bee513e,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Albedo:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - FlowMap:
+        m_Texture: {fileID: 2800000, guid: 60cb2f7d4fda94c7296ec8642925394a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1D8C0D2C:
+        m_Texture: {fileID: 2800000, guid: 409eda0151b6e4823b384adf11714406, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2F67F9B3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4C847052:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_65451E7E:
+        m_Texture: {fileID: 2800000, guid: 60cb2f7d4fda94c7296ec8642925394a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_685C6EC8:
+        m_Texture: {fileID: 2800000, guid: 28e601c1482814721b963ae2f0a1edc1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B594AECD:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CE38644B:
+        m_Texture: {fileID: 2800000, guid: 449b3a00b5ce74011b3843dc46df6e79, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D69BDAF:
+        m_Texture: {fileID: 2800000, guid: 60cb2f7d4fda94c7296ec8642925394a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1F49E5C7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_46D14D8F_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3601a4f375b53470dbe542e2178d7acb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5C7600ED_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_814CE726_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3601a4f375b53470dbe542e2178d7acb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A14000AE_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DCF1F9DF_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7223837fb1adf4842bdad5880d23e0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Intensity: 0.16
+    - LoopDuration: 3
+    - Vector1_26F3CDBC: 0.1
+    - Vector1_3A4ABAED: 0.06
+    - Vector1_3CC03A9D: 3
+    - Vector1_C07E2D1A: 3
+    m_Colors:
+    - AlbedoTiling: {r: 1, g: 1, b: 0, a: 0}
+    - FlowMapOffset: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_A640E9EB: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_B4F209C6: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_B8755A29: {r: 1, g: 1, b: 0, a: 0}
