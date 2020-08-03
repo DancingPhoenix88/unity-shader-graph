@@ -221,7 +221,7 @@
         {
             "m_GuidSerialized": "a93c1af6-55bf-46ba-ad34-bde0910c4a65",
             "m_Title": "How to use Output",
-            "m_Content": "Feed output to _FlowMapSampler subgraph to blend pixels of 2 waves",
+            "m_Content": "Feed output to _SelfBlendSampler subgraph to blend pixels of 2 waves",
             "m_TextSize": 0,
             "m_Theme": 1,
             "m_Position": {

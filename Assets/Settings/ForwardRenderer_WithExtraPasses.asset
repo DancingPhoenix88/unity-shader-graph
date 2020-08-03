@@ -117,6 +117,19 @@ MonoBehaviour:
       restoreCamera: 1
       offset: {x: 0, y: 0, z: 0, w: 0}
       cameraFieldOfView: 60
+--- !u!114 &-3143022258877030180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08ae09649e80e7146bc75a8cfde04167, type: 3}
+  m_Name: Decals
+  m_EditorClassIdentifier: 
+  m_Active: 0
 --- !u!114 &-860367449762497996
 MonoBehaviour:
   m_ObjectHideFlags: 0
