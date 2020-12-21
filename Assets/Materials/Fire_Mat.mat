@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fire_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 5059d19fe54ed49be947d474f613e32e,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_2F44A233:
+        m_Texture: {fileID: 2800000, guid: dfcd966d48d454d7a9d0190814945c22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2A7783C8_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7C0D39D3_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9877AAD1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: dfcd966d48d454d7a9d0190814945c22, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_99456629_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A69FA530_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 171725d47be3c4dfc9394180967d4afa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_F0E89430_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 171725d47be3c4dfc9394180967d4afa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - DISTORTION: 0
+    - Vector1_6EED34A8: 15
+    - Vector1_CE7656D1: 0.215
+    - Vector1_EC37DF8: 0.87
+    m_Colors:
+    - Color_293AC60B: {r: 1.773585, g: 0.43819186, b: 0.06500052, a: 0}
+    - Color_6EA49163: {r: 2.2129319, g: 0.17637897, b: 0.1356987, a: 0}

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Glow_TronCharLQ_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 3f10b9e7ffa3d445a8b35b6816cc7fe5,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_297B075B:
+        m_Texture: {fileID: 2800000, guid: cef7d66c8501a44128c58a29da45a837, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4FCE7CF5:
+        m_Texture: {fileID: 2800000, guid: 0677c89b706d548ee9e2b3e75b174172, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5FD8D868:
+        m_Texture: {fileID: 2800000, guid: 63ec2b8118cc04715928a6ca6a92f31d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C74972B4:
+        m_Texture: {fileID: 2800000, guid: 7b58ce83f1db940f89f9fcc41c1f7343, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_EEA4ACCB:
+        m_Texture: {fileID: 2800000, guid: 34fcb6f73e7914f808bb6d6e7c84372d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3D3B2A63: 3.14
+    - Vector1_8B354049: 0
+    - Vector1_AC6F39D5: 0
+    - Vector1_BA0F0BBA: 0.85
+    m_Colors:
+    - Color_13BDD6CA: {r: 0, g: 0, b: 0, a: 1}
+    - Color_66A98746: {r: 0.284, g: 0, b: 0.022845447, a: 1}
+    - Color_DF636B63: {r: 19.200005, g: 1.5457333, b: 0, a: 1}
+    - Vector2_FFC6C429: {r: 1, g: 1, b: 0, a: 0}

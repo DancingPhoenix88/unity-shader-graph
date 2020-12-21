@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TonalArtMap_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: d1c01cd6745de4801ba97cfa082f5801,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2DArray_F1A370A7:
+        m_Texture: {fileID: 18700000, guid: 6d96e29e397954933afcd2b9b25166b1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1831742D:
+        m_Texture: {fileID: 2800000, guid: b2a3ee3a70a974e61b3c2d468e3b76a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AC49DD0E:
+        m_Texture: {fileID: 2800000, guid: 4373c3cc785e747159c067fcb2d3ea87, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CDF6E266:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DArray_1F83DD3C_TextureArray_1:
+        m_Texture: {fileID: 18700000, guid: 6d96e29e397954933afcd2b9b25166b1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DArray_3C87306_TextureArray_1:
+        m_Texture: {fileID: 18700000, guid: 6d96e29e397954933afcd2b9b25166b1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_22CE15E4: 0.9
+    - Vector1_2E2A98D7: 0
+    - Vector1_3CB1EFDD: 1
+    - Vector1_56376455: 7
+    - Vector1_725469E7: 0.478
+    - Vector1_83ED2D4D: 1.12
+    - Vector1_DD2D6B10: 1
+    - Vector1_EC8C1174: 23
+    m_Colors:
+    - Color_50E5E203: {r: 1, g: 1, b: 1, a: 0}
+    - Color_94F030: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
+    - Color_EFB45FC6: {r: 0.4575917, g: 0.4750126, b: 0.8584906, a: 0}

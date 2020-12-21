@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cloth_dynamic_mask
+  m_Shader: {fileID: -6465566751694194690, guid: 834259c45bbef44d3a82cf3b4fd170e2,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_ED864D2C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 835f6bb2fac2041208daea2b552f1d18, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2FF3E056: 7.4
+    - Vector1_4E35D5BB: 0
+    - Vector1_9B03B7FE: 0
+    m_Colors:
+    - Color_8CEE2374: {r: 0.9658332, g: 0.27058828, b: 1, a: 0}
+    - Color_D029767C: {r: 0.8838359, g: 1, b: 0.43921566, a: 0}
+    - Vector2_8A631649: {r: 10, g: 10, b: 0, a: 0}
