@@ -991,7 +991,7 @@ namespace Macaron.UVViewer.Editor
             _textureMaterial.SetVector("_ColorMaskG", colorMaskG);
             _textureMaterial.SetVector("_ColorMaskB", colorMaskB);
             _textureMaterial.SetVector("_ColorMaskA", colorMaskA);
-            _textureMaterial.SetFloat("_AdditiveAlpha", additiveAlpha);
+            _textureMaterial.SetFloat("_AdditiveAlpha", 1f);
         }
 
         private void DrawViewGrid(Rect viewRect)

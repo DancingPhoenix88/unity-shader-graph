@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_ED2CAA49:
-        m_Texture: {fileID: 2800000, guid: 7430118044bee4379b3ee4ff8699a742, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1cd79b6a9afe6441f9aa1a58de2999e4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_FFB1E74A:
@@ -123,8 +123,12 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - ColorAlbedo: {r: 0.14159843, g: 0.8113208, b: 0.6342612, a: 0}
+    - ColorHighlight: {r: 0.3292254, g: 0.107727, b: 0.72300005, a: 1}
+    - ColorPrimary: {r: 0.34057772, g: 0.085836634, b: 0.695, a: 0}
+    - ColorSecondary: {r: 0, g: 4.085348, b: 3.31199, a: 0}
     - Color_1722C832: {r: 0.16509944, g: 0, b: 0.544, a: 0}
-    - Color_1F4A0D2F: {r: 0, g: 0, b: 0, a: 0}
+    - Color_1F4A0D2F: {r: 0.25482744, g: 0.16255687, b: 0.6745098, a: 1}
     - Color_299FEFA1: {r: 0, g: 0, b: 0, a: 0}
     - Color_445A46D7: {r: 0.376, g: 0.376, b: 0.376, a: 0}
     - Color_6167A7: {r: 0.3167295, g: 0.22218825, b: 0.52156866, a: 1}
@@ -133,7 +137,7 @@ Material:
     - Color_7C137788: {r: 0.04139633, g: 3.9533494, b: 2.897743, a: 0}
     - Color_9FE29A8D: {r: 0.78699994, g: 0.78699994, b: 0.78699994, a: 0}
     - Color_AADF15A7: {r: 0.4313726, g: 0, b: 1, a: 1}
-    - Color_BC102FF4: {r: 0.27695918, g: 0.04206975, b: 0.603, a: 0}
+    - Color_BC102FF4: {r: 0.1757015, g: 0, b: 0.6603774, a: 0}
     - Color_BD894A6B: {r: 0, g: 0, b: 0, a: 0}
     - Color_C804F54E: {r: 0.1650943, g: 1, b: 0.9076117, a: 0}
     - Color_E9BE4BD0: {r: 0.5347996, g: 0, b: 1, a: 0}

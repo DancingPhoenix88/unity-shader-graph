@@ -16,7 +16,8 @@ filters = {
 	asset = true
 }
 scopes = {
-	"last_search.AB59B443" = "abalanche"
+	"last_search.00000018" = "test"
+	"last_search.AB59B443" = "tut_3_"
 }
 providers = {
 	asset = {
@@ -25,13 +26,28 @@ providers = {
 		defaultAction = null
 	}
 	query = {
-		active = true
+		active = false
 		priority = 100
 		defaultAction = null
 	}
-	object = {
-		active = true
-		priority = 55
+	packages = {
+		active = false
+		priority = 90
+		defaultAction = null
+	}
+	settings = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	calculator = {
+		active = false
+		priority = 10
+		defaultAction = null
+	}
+	menu = {
+		active = false
+		priority = 80
 		defaultAction = null
 	}
 	scene = {
@@ -39,14 +55,29 @@ providers = {
 		priority = 50
 		defaultAction = null
 	}
-	packages = {
-		active = true
-		priority = 90
+	res = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	static_methods = {
+		active = false
+		priority = 85
+		defaultAction = null
+	}
+	help = {
+		active = false
+		priority = -1
 		defaultAction = null
 	}
 	log = {
 		active = false
 		priority = 210
+		defaultAction = null
+	}
+	object = {
+		active = false
+		priority = 55
 		defaultAction = null
 	}
 }

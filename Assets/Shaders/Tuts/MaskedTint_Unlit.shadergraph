@@ -16,25 +16,25 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"be2f002b-caf1-4ccc-9be1-c47bf62cdd18\"\n    },\n    \"m_Name\": \"TintPrimary (R)\",\n    \"m_DefaultReferenceName\": \"Color_BC102FF4\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 0.4822712540626526,\n        \"g\": 0.12111052125692368,\n        \"b\": 0.9832256436347961,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"be2f002b-caf1-4ccc-9be1-c47bf62cdd18\"\n    },\n    \"m_Name\": \"TintPrimary (R)\",\n    \"m_DefaultReferenceName\": \"Color_BC102FF4\",\n    \"m_OverrideReferenceName\": \"ColorPrimary\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 0.4822712540626526,\n        \"g\": 0.12111052125692368,\n        \"b\": 0.9832256436347961,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"24006ac7-8858-426b-8f8d-968059e3440e\"\n    },\n    \"m_Name\": \"TintSecondary (G)\",\n    \"m_DefaultReferenceName\": \"Color_7C137788\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 0.609217643737793,\n        \"g\": 1.370350956916809,\n        \"b\": 1.148797869682312,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"24006ac7-8858-426b-8f8d-968059e3440e\"\n    },\n    \"m_Name\": \"TintSecondary (G)\",\n    \"m_DefaultReferenceName\": \"Color_7C137788\",\n    \"m_OverrideReferenceName\": \"ColorSecondary\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 0.609217643737793,\n        \"g\": 1.370350956916809,\n        \"b\": 1.148797869682312,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"f7e9b50f-1c58-4057-b34f-4c5fa2911967\"\n    },\n    \"m_Name\": \"TintHighlight (B)\",\n    \"m_DefaultReferenceName\": \"Color_1F4A0D2F\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 1.0,\n        \"g\": 1.0,\n        \"b\": 1.0,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"f7e9b50f-1c58-4057-b34f-4c5fa2911967\"\n    },\n    \"m_Name\": \"TintHighlight (B)\",\n    \"m_DefaultReferenceName\": \"Color_1F4A0D2F\",\n    \"m_OverrideReferenceName\": \"ColorHighlight\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 1.0,\n        \"g\": 1.0,\n        \"b\": 1.0,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 1\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"de79f521-3454-44d1-b347-dd7b9b2d2783\"\n    },\n    \"m_Name\": \"TintAlbedo (A)\",\n    \"m_DefaultReferenceName\": \"Color_9FE29A8D\",\n    \"m_OverrideReferenceName\": \"\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 1.0,\n        \"g\": 1.0,\n        \"b\": 1.0,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 0\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"de79f521-3454-44d1-b347-dd7b9b2d2783\"\n    },\n    \"m_Name\": \"TintAlbedo (A)\",\n    \"m_DefaultReferenceName\": \"Color_9FE29A8D\",\n    \"m_OverrideReferenceName\": \"ColorAlbedo\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"r\": 1.0,\n        \"g\": 1.0,\n        \"b\": 1.0,\n        \"a\": 0.0\n    },\n    \"m_ColorMode\": 0\n}"
         }
     ],
     "m_SerializedKeywords": [],

@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_ED2CAA49:
-        m_Texture: {fileID: 2800000, guid: 7430118044bee4379b3ee4ff8699a742, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1cd79b6a9afe6441f9aa1a58de2999e4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_FFB1E74A:
@@ -123,8 +123,12 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - ColorAlbedo: {r: 0.5377358, g: 0.1699448, b: 0.24424477, a: 0}
+    - ColorHighlight: {r: 0.41037738, g: 1, b: 0.4128975, a: 0}
+    - ColorPrimary: {r: 0.429738, g: 1, b: 0.21226418, a: 1}
+    - ColorSecondary: {r: 4.075138, g: 3.6714685, b: 0.40366933, a: 0}
     - Color_1722C832: {r: 0.24146731, g: 0.54509807, b: 0, a: 0}
-    - Color_1F4A0D2F: {r: 0.6087113, g: 1, b: 0.5424528, a: 0}
+    - Color_1F4A0D2F: {r: 0.24891627, g: 0.589, b: 0.065379, a: 0}
     - Color_299FEFA1: {r: 0, g: 0, b: 0, a: 0}
     - Color_445A46D7: {r: 0.631, g: 0.631, b: 0.631, a: 0}
     - Color_6167A7: {r: 0.44560155, g: 0.5568628, b: 0.37142748, a: 1}
